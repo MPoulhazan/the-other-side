@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'billy';
+    src: url('/assets/fonts/billy/billy.ttf');
+}
+
+@font-face {
+    font-family: 'timeburner';
+    src: url('/assets/fonts/timeburner/timeburnernormal.ttf');
+}
+
+* {
+    font-family: 'timeburner', Arial, Sans-Serif;
+    text-align: justify;
+}
