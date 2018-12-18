@@ -1,8 +1,19 @@
 
+body {
+    overflow: auto!important;
+    margin: auto;
+    background-color: white!important;
+}
 /* HOME */
 .content{
     .text {
         max-width: 700px;
         margin: 30px auto;
+    }
+
+    .illustration{
+        margin: auto 20px;
+        width: 98%;
+        display: flex;
     }
 }
